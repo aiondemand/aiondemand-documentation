@@ -73,12 +73,14 @@ Setting up the development environment
 
 Follow the instructions https://code.visualstudio.com/docs/python/python-tutorial#_select-a-python-interpreter  and select the virtual environment (.venv)
 
-Install sphinx in this environment. On visual studio code opent the Terminal and run the command
+Install sphinx in this environment. On visual studio code opent the Terminal and run the command::
+    
     pip install -U sphinx
 
 (notice that you have to be inside the .venv virtual environment. )
 
-Install the theme
+Install the theme::
+
     pip install -U sphinx_rtd_theme
 
 
@@ -97,8 +99,11 @@ Setting the sphinx-build command:
 
 Compiling the documentation manually
 ============================================================
-Alternative you can aso run command
- .\docs\make.bat html
+
+Alternative you can aso run command::
+
+    .\docs\make.bat html
+
  to trigger the documentation build manually
 
 
