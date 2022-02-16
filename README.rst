@@ -104,8 +104,7 @@ Alternative you can aso run command::
 
     .\docs\make.bat html
 
- to trigger the documentation build manually
-
+to trigger the documentation build manually
 
 
 
