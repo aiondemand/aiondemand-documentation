@@ -100,11 +100,11 @@ Setting the sphinx-build command:
 Compiling the documentation manually
 ============================================================
 
-Alternative you can aso run command::
+Alternative you can also run the following command, to trigger the documentation build manually::
 
     .\docs\make.bat html
 
-to trigger the documentation build manually
+
 
 
 
