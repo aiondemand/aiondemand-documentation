@@ -83,19 +83,23 @@ Install the theme
 
 
 Make sure the sphinx path is set at visual studio code
-https://docs.restructuredtext.net/articles/configuration.html
+https://docs.restructuredtext.net/articles/configuration.html This will allow the extension to display a live preview of your changes
 
-This will allow the extensiosn to display a live preview of your changes
+Setting the sphinx-build command:
+
 .. image:: ./readme-screenshots/howto-sphinxbuild.jpg
 
 `Keyword shortcut ctrl+k ctrl+r <https://docs.restructuredtext.net/articles/preview.html/>`_ opens live preview 
+
 .. image:: ./readme-screenshots/howto-sidebyside.jpg
 
 
 
 Compiling the documentation manually
 ============================================================
-Run .\make.bat html
+Alternative you can aso run command
+ .\docs\make.bat html
+ to trigger the documentation build manually
 
 
 
