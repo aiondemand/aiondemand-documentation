@@ -63,7 +63,7 @@ Setting up Github Client
 ============================================================
 Install `Github desktop <https://desktop.github.com//>`_  sign in with your github account and select the aiondemand project
 
-.. image:: ./readme-screenshot/howto-github-open_repo_with_visual_studio code.jpg
+.. image:: ./readme-screenshots/howto-github-open_repo_with_visual_studio code.jpg
 .. image:: ./readme-screenshots/howto-selectgithubrepo.jpg
 
 Setting up the development environment
