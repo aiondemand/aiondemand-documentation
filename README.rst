@@ -62,7 +62,8 @@ Install **reStructuredText Syntax highlighting** at Visual Studio code  https://
 Setting up Github Client
 ============================================================
 Install `Github desktop <https://desktop.github.com//>`_  sign in with your github account and select the aiondemand project
-
+.. image:: ./readme-screenshot/howto-github-open_repo_with_visual_studio code.jpg
+    .. image:: ./readme-screenshots/howto-selectgithubrepo.jpg
 
 Setting up the development environment
 ============================================================
@@ -83,12 +84,14 @@ Set up the sphinx path at visual studio code
 https://docs.restructuredtext.net/articles/configuration.html
 
 
+.. image:: ./readme-screenshots/howto-sphinxbuild.jpg
+.. image:: ./readme-screenshots/howto-sidebyside.jpg
+
+    
 Compiling the documentation manually
 ============================================================
 Run .\make.bat html
 
 
-.. image:: ./readme-screenshot/show to - github - open repo with visual studio code.jpg
-.. image:: ./readme-screenshots/how to - select github repo.jpg
-.. image:: ./readme-screenshots/how to - sphinx build.jpg
-.. image:: ./readme-screenshots/howto-sidebyside.jpg
+
+
