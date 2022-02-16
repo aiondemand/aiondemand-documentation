@@ -63,30 +63,34 @@ Setting up Github Client
 ============================================================
 Install `Github desktop <https://desktop.github.com//>`_  sign in with your github account and select the aiondemand project
 
-.. image:: ./readme-screenshots/howto-github-open_repo_with_visual_studio code.jpg
-.. image:: ./readme-screenshots/howto-selectgithubrepo.jpg
 
 Setting up the development environment
 ============================================================
 - On visual studio code open the project
 - Create a virtual environment d
- > python -m venv .venv
 
-Follow the instructions https://code.visualstudio.com/docs/python/python-tutorial#_select-a-python-interpreter  and select the virtual environment
+    python -m venv .venv
 
-Install sphinx in this environment.
+Follow the instructions https://code.visualstudio.com/docs/python/python-tutorial#_select-a-python-interpreter  and select the virtual environment (.venv)
+
+Install sphinx in this environment. On visual studio code opent the Terminal and run the command
     pip install -U sphinx
+
+(notice that you have to be inside the .venv virtual environment. )
 
 Install the theme
     pip install -U sphinx_rtd_theme
 
 
-Set up the sphinx path at visual studio code
+Make sure the sphinx path is set at visual studio code
 https://docs.restructuredtext.net/articles/configuration.html
 
-
+This will allow the extensiosn to display a live preview of your changes
 .. image:: ./readme-screenshots/howto-sphinxbuild.jpg
+
+`Keyword shortcut ctrl+k ctrl+r <https://docs.restructuredtext.net/articles/preview.html/>`_ opens live preview 
 .. image:: ./readme-screenshots/howto-sidebyside.jpg
+
 
 
 Compiling the documentation manually
