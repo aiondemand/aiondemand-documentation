@@ -1,0 +1,8 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "ai4ei"
+authors = [{name = "AI4EU", email = "administratos-email@ai4eu"}]
+dynamic = ["version", "description"]
