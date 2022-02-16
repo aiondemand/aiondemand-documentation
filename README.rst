@@ -88,4 +88,7 @@ Compiling the documentation manually
 Run .\make.bat html
 
 
+.. image:: ./readme-screenshot/show to - github - open repo with visual studio code.jpg
+.. image:: ./readme-screenshots/how to - select github repo.jpg
+.. image:: ./readme-screenshots/how to - sphinx build.jpg
 .. image:: ./readme-screenshots/howto-sidebyside.jpg
