@@ -42,17 +42,33 @@ It will help you install
 - The development tools required in order to build the documentation
 
 
-Setting up Github Client
+Setting up the development tools
 ============================================================
-to be completed
+Install Python 
+https://www.microsoft.com/el-gr/p/python-310/9pjpw5ldxlz5?rtc=1&activetab=pivot:overviewtab 
+
+Install sphinx
+On Windows, you should open Command Prompt (⊞Win-r and type cmd) and run the same command.
+     pip install -U sphinx
+
 
 Setting up an editor
 ============================================================
-to be completed
+Install Visual Studio Code https://code.visualstudio.com/  
 
-Setting up the development tools
+Follow the instructions https://code.visualstudio.com/docs/python/python-tutorial#_select-a-python-interpreter 
+
+Install **python extension** at Visual Studio code https://marketplace.visualstudio.com/items?itemName=ms-python.python (when asked open the link directly via Visual Studio code)
+Install **restructuredtext extension** at Visual Studio code https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext 
+Install **reStructuredText Syntax highlighting** at Visual Studio code  https://marketplace.visualstudio.com/items?itemName=trond-snekvik.simple-rst
+
+
+Setting up Github Client
 ============================================================
-to be completed
+
+Install `Github desktop <https://desktop.github.com//>`_ and sign in with yout github account
+
+
 
 Compiling the documentation everytime you make changes
 ============================================================
