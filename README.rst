@@ -1,8 +1,9 @@
-================================================================================================
+====================================
 AI on Demand documentation
-================================================================================================
+====================================
 
-This repository contains the documentation available at https://aiondemand.readthedocs.io/en/latest/
+
+This repository contains the documentation available at `readthecods <https://aiondemand.readthedocs.io/en/latest/>`_
 
 ***************
 How it works
@@ -37,9 +38,10 @@ How to start using windows
 This guide assumes that you have minor experience to github.
 It will help you install
 
-- A github client
-- An editor to write the documentation
 - The development tools required in order to build the documentation
+- A github client
+- An editor to write the documentation along with the required dependencies (python and Sphinx related packages)
+
 
 
 Setting up the development tools
@@ -47,16 +49,10 @@ Setting up the development tools
 Install Python 
 https://www.microsoft.com/el-gr/p/python-310/9pjpw5ldxlz5?rtc=1&activetab=pivot:overviewtab 
 
-Install sphinx
-On Windows, you should open Command Prompt (⊞Win-r and type cmd) and run the same command.
-     pip install -U sphinx
-
 
 Setting up an editor
 ============================================================
 Install Visual Studio Code https://code.visualstudio.com/  
-
-Follow the instructions https://code.visualstudio.com/docs/python/python-tutorial#_select-a-python-interpreter 
 
 Install **python extension** at Visual Studio code https://marketplace.visualstudio.com/items?itemName=ms-python.python (when asked open the link directly via Visual Studio code)
 Install **restructuredtext extension** at Visual Studio code https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext 
@@ -65,11 +61,31 @@ Install **reStructuredText Syntax highlighting** at Visual Studio code  https://
 
 Setting up Github Client
 ============================================================
-
-Install `Github desktop <https://desktop.github.com//>`_ and sign in with yout github account
-
+Install `Github desktop <https://desktop.github.com//>`_  sign in with your github account and select the aiondemand project
 
 
-Compiling the documentation everytime you make changes
+Setting up the development environment
 ============================================================
-to be completed
+- On visual studio code open the project
+- Create a virtual environment d
+ > python -m venv .venv
+
+Follow the instructions https://code.visualstudio.com/docs/python/python-tutorial#_select-a-python-interpreter  and select the virtual environment
+
+Install sphinx in this environment.
+    pip install -U sphinx
+
+Install the theme
+    pip install -U sphinx_rtd_theme
+
+
+Set up the sphinx path at visual studio code
+https://docs.restructuredtext.net/articles/configuration.html
+
+
+Compiling the documentation manually
+============================================================
+Run .\make.bat html
+
+
+.. image:: ./readme-screenshots/howto-sidebyside.jpg
