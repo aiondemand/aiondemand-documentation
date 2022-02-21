@@ -3,7 +3,7 @@ AI on Demand documentation
 ====================================
 
 
-This repository contains the documentation available at `readthecods <https://aiondemand.readthedocs.io/en/latest/>`_
+This repository contains the documentation available at `readthedos <https://aiondemand.readthedocs.io/en/latest/>`_
 
 ***************
 How it works
@@ -46,16 +46,16 @@ It will help you install
 
 Setting up the development tools
 ============================================================
-Install Python 
-https://www.microsoft.com/el-gr/p/python-310/9pjpw5ldxlz5?rtc=1&activetab=pivot:overviewtab 
+Install Python
+https://www.microsoft.com/el-gr/p/python-310/9pjpw5ldxlz5?rtc=1&activetab=pivot:overviewtab
 
 
 Setting up an editor
 ============================================================
-Install Visual Studio Code https://code.visualstudio.com/  
+Install Visual Studio Code https://code.visualstudio.com/
 
 Install **python extension** at Visual Studio code https://marketplace.visualstudio.com/items?itemName=ms-python.python (when asked open the link directly via Visual Studio code)
-Install **restructuredtext extension** at Visual Studio code https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext 
+Install **restructuredtext extension** at Visual Studio code https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext
 Install **reStructuredText Syntax highlighting** at Visual Studio code  https://marketplace.visualstudio.com/items?itemName=trond-snekvik.simple-rst
 
 
@@ -74,7 +74,7 @@ Setting up the development environment
 Follow the instructions https://code.visualstudio.com/docs/python/python-tutorial#_select-a-python-interpreter  and select the virtual environment (.venv)
 
 Install sphinx in this environment. On visual studio code opent the Terminal and run the command::
-    
+
     pip install -U sphinx
 
 (notice that you have to be inside the .venv virtual environment. )
@@ -91,7 +91,7 @@ Setting the sphinx-build command:
 
 .. image:: ./readme-screenshots/howto-sphinxbuild.jpg
 
-`Keyword shortcut ctrl+k ctrl+r <https://docs.restructuredtext.net/articles/preview.html/>`_ opens live preview 
+`Keyword shortcut ctrl+k ctrl+r <https://docs.restructuredtext.net/articles/preview.html/>`_ opens live preview
 
 .. image:: ./readme-screenshots/howto-sidebyside.jpg
 

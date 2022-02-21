@@ -1,4 +1,4 @@
-AI4EU documentation!
+AIonDemand documentation!
 ===================================
 
 
