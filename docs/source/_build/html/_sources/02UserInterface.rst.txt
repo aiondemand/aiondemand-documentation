@@ -16,25 +16,25 @@ If you already possess a login for the platform, we recommend using the same ema
 To sign in to the platform follow these simple steps:
 
 1. If you do not already have an EU login you may create an account `here <https://webgate.ec.europa.eu/cas>`_
-    .. image:: ./ai4eu.png      
+    .. image:: ./images/eu-login-01.png
 
 2. Click on the symbol with the arrow in the top right corner on the `AI on demand <https://www.ai4europe.eu/>`_
-    .. image:: ./ai4eu.png
+    .. image:: ./images/eu-login-02.png
 
 3.	Click on the blue EU Login button
-    .. image:: ./ai4eu.png
+    .. image:: ./images/eu-login-03.png
 
 4.	Sign in using your AI login
-    .. image:: ./ai4eu.png
+    .. image:: ./images/eu-login-04.png
 
 5.	Once you are logged in you can click on the person icon in the top right corner to see your content and account details
-    .. image:: ./ai4eu.png
+    .. image:: ./images/eu-login-05.png
 
 6.	You will then find an overview of the content you have created along with its moderation state (e.g. published or under review) and an option to submit new content
-    .. image:: ./ai4eu.png
+    .. image:: ./images/eu-login-06.png
 
 
-Adding content to the platform
+How to add content to the platform
 ------------------------
 To be able to add content to the platform you must log in using your EU login. 
 Go to the `Collaboration <https://www.ai4europe.eu/collaboration>`_ 
@@ -44,21 +44,47 @@ ranging from news and events to case studies.
 Watch this `video-tutorial <https://www.ai4europe.eu/education/education-catalog/publishing-contents-ai-demand-platform>`_ 
 on how to contribute your own contents.
 
-.. image:: ./ai4eu.png
+.. image:: ./images/collaboration-01.png
   :width: 400
   :alt: Alternative text
 
-.. image:: ./ai4eu.png
+.. image:: ./images/collaboration-02.png
   :width: 400
   :alt: Alternative text
 
+.. image:: ./images/collaboration-03.png
+  :width: 400
+  :alt: Alternative text
 
 This collaboration page is accessible through seven of the main pages, Home, AI Community, Business and Industry, Research, Education, Ethics, and News and Events.
 
-.. image:: ./ai4eu.png
+.. image:: ./images/collaboration-04.png
   :width: 400
   :alt: Alternative text
 
+Running example of adding a news item to the platform
+------------------------
+
+Chose through the Collaboration page the news item and click on add it button.
+
+.. image:: ./images/add-content-01.png
+  :width: 400
+  :alt: Alternative text
+
+You can then add media (e.g. an image) and select the category and business category the content falls under to link your content to the relevant pages.
+
+.. image:: ./images/add-content-02.png
+  :width: 400
+  :alt: Alternative text
+
+Once you have inputted all the necessary information you can then click on save. 
+After you have submitted your content, it will go through a review process before it can be published. 
+
+.. image:: ./images/add-content-03.png
+  :width: 400
+  :alt: Alternative text
+
+To view if your content has been published you may check your content in your account (see step 5 and 6 of Accessing the AI-on-demand Platform through the EU login).
 
 .. :Authors:
     Gabriel G. Castañé,

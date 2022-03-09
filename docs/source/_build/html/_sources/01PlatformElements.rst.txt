@@ -3,9 +3,8 @@ Platform Elements
 
 Figure 1 depicts the structure of the AI-on-demand platform which consists of eight main elements, Home, AI Community, Business and Industry, Research, Education, Ethics, Services, and News and Events which are represented by different colours in this figure. The grey boxes represent elements that are available on all pages of the platform such as the menu which can be found at the top of every page and is illustrated by the top grey box. The seven elements in the menu have different drop-down menus which are also shown in the grey box. The bottom grey box shows the four elements Report page, About AI4EU, Legal notice and Social media that can be found at the bottom of every page. All pages except for the Services page provide a link to the Collaboration page where content can be added to the platform. 
 
-.. image:: ./ai4eu.png
-  :width: 400
-  :alt: Alternative text
+.. image:: ./images/portal_navigation.png
+  :alt: Portal Navigation Schema
 
 Home
 --------------------------------------------------------
