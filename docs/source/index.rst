@@ -33,6 +33,7 @@ Contents
 
    01PlatformElements
    02UserInterface
+   03Editorial
 
 .. :Authors:
     Gabriel G. Castañé,

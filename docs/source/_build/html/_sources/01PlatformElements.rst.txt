@@ -39,7 +39,7 @@ The Services element provides access to the different services of the platform. 
 - A **scalable AI-as-a Service** service for the Deep Edge helping **SMEs** digitalise in the sector 
 - A **Matchmaking** service for connecting businesses, AI experts & hardware providers / exploring AI in different languages
 - An **Earth Observation** service for users of Copernicus Data
-- An **AI in Enenergy** service for SMEs reshaping their **energy value chain**
+- An **AI in Enenergy** service for **SMEs** reshaping their **energy value chain**
 
 News and Events
 ------------------------------------------------
