@@ -1,13 +1,15 @@
-Page 1
+Platform Elements
 ========================================
 
 Subcontent of page 1
 --------------------------------------------------------
-same information goes hereas asdasdsa - this is a test
+same information goes hereas asdasdsaxx - this is a test
 
 
-Subcontent of page 1
+Subcontent of page 2
 ------------------------------------------------
 same information goes here
 
-
+.. image:: ./ai4eu.png
+  :width: 400
+  :alt: Alternative text

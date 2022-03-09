@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'AI ON Demand'
-copyright = '2022, AI ON Demand team'
-author = 'AI ON Demand Team'
+project = 'AI on Demand'
+copyright = '2022, AI on Demand team'
+author = 'AI on Demand Team'
 
 release = '1.0'
 version = '1.0'
