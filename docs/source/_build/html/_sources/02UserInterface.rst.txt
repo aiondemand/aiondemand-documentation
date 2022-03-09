@@ -37,7 +37,7 @@ To sign in to the platform follow these simple steps:
 How to add content to the platform
 ------------------------
 
-.. _reference1:
+.. _referencia1:
 
 To be able to add content to the platform you must log in using your EU login. 
 Go to the `Collaboration <https://www.ai4europe.eu/collaboration>`_ 
