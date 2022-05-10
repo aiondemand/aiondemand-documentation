@@ -89,6 +89,22 @@ After you have submitted your content, it will go through a review process befor
 
 To view if your content has been published you may check your content in your account (see step 5 and 6 of Accessing the AI-on-demand Platform through the EU login).
 
+Publishing your research results in a "Research Bundle"
+------------------------
+
+A "research bundle" on the AI-on-demand platform (ai4europe.eu) is meant to collect in a single place all the TANGIBLE OUTPUTS (code, data, tutorials, ...) produced by a small research project, like a Humane-AI-Net micro-project, and published anywhere.  Note that a research bundle is NOT meant to only describe the project or its planned (as opposed to actual) activities and results.
+
+To create a "research bundle" for your small project, you can follow this `video-tutorial <https://www.ai4europe.eu/education/education-catalog/publishing-contents-ai-demand-platform>`_.  Then, you can link your "bundle" to the relevant tangible outputs as follows:
+
+1. If your output is already published on the AI on-demand platform, then edit the research bundle, find the "All entities" option in the pop-in menu on the left border, and select "Add existing entitiy".  You can add any node already on the platform, like organizations, AI assets (datasets, software, etc), educational contents, and so on.  Just type the first letters in the "Title" field of the "Add entity" form to find it.  You can also add members to the bundle by their (ECAS) user name: they will have the right to edit the bundle.
+
+2. If your output is not published on the platform yet, use the above video tutorial to publish it.  It will go through an editorial process: once approved, you will be able to add it to your bundle.
+
+3. If you want to link your "bundle" to something which is not published on the platform, e.g., a paper on Zenodo, simply edit your bundle and put a link to it in the "Additional information" field.  You can use the small chain icon in the editing box to put a URL link.  (Note: we do not directly store publications on the platform since they are usually already archived in some exernal place.)
+
+At the bottom of your "research bundle" you will see a list of all the contents on the platform that are linked to it.  Note that the same content can be linked to more than one bundle: this is usually the case for organization.
+
+
 .. :Authors:
     Gabriel G. Castañé,
     Melissa Brunner
