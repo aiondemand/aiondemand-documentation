@@ -30,7 +30,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-html_logo = "ai4eu.png"
+html_logo = "ai4europe.png"
 html_theme_options = {
     'logo_link' : "https://www.ai4europe.eu",
     'logo_only': True,
