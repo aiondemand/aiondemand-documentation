@@ -10,6 +10,6 @@ Subcontent of page 2
 ------------------------------------------------
 same information goes here
 
-.. image:: ./ai4europe.png
+.. image:: ./ai4europe.jpg
   :width: 400
   :alt: Alternative text
