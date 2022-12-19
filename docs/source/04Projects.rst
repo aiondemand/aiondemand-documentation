@@ -1,16 +1,24 @@
 Projects
 =======================================================
 
+The Newsletter tool is a new feature that enables the owners of Projects hosted on the AI-on-Demand Platform's CMS to send an email newsletter to all members of the platform. The newsletter contains a custom subject and introductory text, as well as links, summaries, and images of selected relevant content (e.g. news, open calls, etc.). This tool was built as a custom module for Drupal 9.x by Demokritos.
+The Newsletter is an important addition to the AIoD Platform, as it provides several benefits to Project owners and members. These benefits include:
+The ability to easily and efficiently send newsletters to all members of a Project, providing them with timely updates and relevant information.
+The ability for visitors of the platform to easily "connect" with Projects they are interested in, in order to stay informed and engaged with the Project, even if they do not actively participate in its proceedings.
+The simplification of the process of following a Project, making it easy for users to stay up-to-date with the latest developments and news related to the Project.
+The potential for future developments in community building, such as providing members with access to additional resources and information directly related to their interests. This can help to build a stronger and more engaged community around the Project.
+
+
+
 *Following* a Project
 -------------------------------------------------------
 
 **Any** member of the Platform can *follow* **any** Project! That's how people can
 easily "*connect*" themselves with a Project they might be interested in, even
-if they don’t actually participate in its proceedings. By following a Project,
-people can
+if they don’t actually participate in its proceedings.
 
-All it takes is to visit
-the Project’s page on the site and to click on the “**Follow Project!**” button.
+All it takes to follow a Project is to visit the Project’s page on the site and
+to click on the “**Follow Project!**” button:
 
 .. image:: ./images/follow-02.png
   :alt: Following a Project.
@@ -18,7 +26,7 @@ the Project’s page on the site and to click on the “**Follow Project!**” b
 Clicking the button sets things in motion. A new modal window is presented with
 further information and buttons that provide actions. Registered users can just
 click Follow again to confirm their choice. Unregistered users or users who
-haven’t signed are redirected to the EU Login page.
+haven’t signed are redirected to the login page.
 
 For now, followers have access to Newsletters sent by the Projects owners.
 
@@ -35,17 +43,24 @@ Newsletter tool for Project owners
 -------------------------------------------------------
 
 The Newsletter tools allows the owner(s) of a Project on the AIoD Platform’s CMS
-to send an email Newsletter to all its members, which includes a custom subject
-and an introductory text, along with links, summary and images of selected
-relevant content (e.g. News, Open calls etc.).
+to send an email Newsletter to all its members. The newsletter contains a custom
+subject and introductory text, as well as links, summaries, and images of
+selected relevant content (e.g. News, Open Calls, etc.).
+
+The Newsletter is an important addition to the AIoD Platform, as it provides
+several benefits to Project owners and members. Members can easily connect with
+the Projects they are interest in and they will be kept informed with timely
+updates and relevant information.
 
 How can a Project owner share content via a Newsletter?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A lot of interesting content is posted every week on the CMS, but unless users
-decide to visit the site, they won’t even be able to read it. Receiving a
-Newsletter with all the latest insights related to the Projects they decided to
-follow, will keep them updated for anything important that it’s happening.
+There is a significant amount of engaging content that is published on the CMS
+on a weekly basis. However, unless users take the initiative to visit the site,
+they may not have the opportunity to view this content. By receiving a
+newsletter that includes the latest updates and insights related to the Projects
+they have chosen to follow, users can stay informed about any important events
+or developments.
 
 Step 1. Go to the Newsletter tool
 #######################################################
@@ -64,7 +79,7 @@ The Subject is really important as it’s going to be the Subject of the email
 itself and also the Title at the header of the Project’s Newsletter. A sensible
 default is automatically set, although Project owners should provide their own -
 they can certainly leave out the Project's name as that will always appear on
-the Newsletter, right below the AI-on-Demand platform’s logo.
+the Newsletter, right below the Platform’s logo.
 
 .. image:: ./images/newsletter-02.png
   :alt: Picking a subject for the newsletter.
