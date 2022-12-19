@@ -23,4 +23,4 @@ The publisher then reviews the assessment of the reviewer within 3 working days.
 
 At the end of the review process the user will either receive a notification to revise their content, a notification of rejection, or a notification of approval.
 
-.. _How to add content to the platform: ./02UserInterface.rst#how-to-add-content-to-the-platform
+.. _How to add content to the platform: ./02UserInterface.html#how-to-add-content-to-the-platform
