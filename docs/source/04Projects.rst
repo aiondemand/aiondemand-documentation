@@ -4,9 +4,9 @@ Projects
 *Following* a Project
 -------------------------------------------------------
 
-**Any** member of the Platform can *follow* **any** Project! That's how people can
-easily "*connect*" themselves with a Project they might be interested in, even
-if they don’t actually participate in its proceedings.
+**Any** member of the Platform can *follow* **any** Project! That's how people
+can easily "*connect*" themselves with a Project they might be interested in,
+even if they don’t actually participate in its proceedings.
 
 All it takes to follow a Project is to visit the Project’s page on the site and
 to click on the “**Follow Project!**” button:
@@ -75,10 +75,10 @@ the Newsletter, right below the Platform’s logo.
 .. image:: ./images/newsletter-02.png
   :alt: Picking a subject for the newsletter.
 
-**Validation rules:** Subject should not be less than 10 characters or longer than 90
-characters. There are many articles and researches that define the optimal
-subject length, but as a rule you should keep in mind that notifications which
-appear on mobile screens are usually truncated at about 40 characters.
+**Validation rules:** Subject should not be less than 10 characters or longer
+than 90 characters. There are many articles and researches that define the
+optimal subject length, but as a rule you should keep in mind that notifications
+which appear on mobile screens are usually truncated at about 40 characters.
 
 Step 3. Write an introductory text (*body*)
 #######################################################
@@ -91,12 +91,12 @@ contains the most important information for people who are short on time.
 .. image:: ./images/newsletter-03.png
   :alt: Writing the body of the Newsletter.
 
-**Validation rules:** Body should not be less than 200 characters. As its purpose is
-to put the most important information first, it should at least be longer than a
-SMS. Only restricted usage of HTML is allowed: Links within the CMS, simple
-lists, quotes and other elements can be used. More details about how to utilise
-restricted HTML are provided via the modal that appears by clicking the dotted
-link (restricted).
+**Validation rules:** Body should not be less than 200 characters. As its
+purpose is to put the most important information first, it should at least be
+longer than a SMS. Only restricted usage of HTML is allowed: Links within the
+CMS, simple lists, quotes and other elements can be used. More details about how
+to utilise restricted HTML are provided via the modal that appears by clicking
+the dotted link (restricted).
 
 Step 4. Pick interesting and relevant content
 #######################################################
@@ -123,8 +123,8 @@ Step 5. Confirm your choices & sent the newsletter!
 #######################################################
 
 It’s not possible to send a Newsletter without checking the Confirmation
-*checkbox*. This ensures that no Newsletter is sent by accident, while providing a
-short summary of the action (*"will be sent immediately via email to the N
+*checkbox*. This ensures that no Newsletter is sent by accident, while providing
+a short summary of the action (*"will be sent immediately via email to the N
 members of this project"*).
 
 .. image:: ./images/newsletter-05.png
