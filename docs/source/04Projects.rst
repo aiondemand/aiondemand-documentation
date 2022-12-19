@@ -1,0 +1,125 @@
+Projects
+=======================================================
+
+*Following* a Project
+-------------------------------------------------------
+
+**Any** member of the Platform can *follow* **any** Project! That's how people can
+easily "*connect*" themselves with a Project they might be interested in, even
+if they don’t actually participate in its proceedings. By following a Project,
+people can
+
+All it takes is to visit
+the Project’s page on the site and to click on the “**Follow Project!**” button.
+
+.. image:: ./images/follow-02.png
+  :alt: Following a Project.
+
+Clicking the button sets things in motion. A new modal window is presented with
+further information and buttons that provide actions. Registered users can just
+click Follow again to confirm their choice. Unregistered users or users who
+haven’t signed are redirected to the EU Login page.
+
+For now, followers have access to Newsletters sent by the Projects owners.
+
+But that is just the beginning: In the future, followers can easily have access
+to additional information and resources compared to outsiders (registered users
+of the platform who are not members of a Project). Furthermore, this function
+opens up numerous possibilities for community building: For example, every
+Project in the future could have a list of followers and “participants”
+(people actively working on a Project), while every user could have the list of
+the Projects they follow or participate on their profiles!
+
+
+Newsletter tool for Project owners
+-------------------------------------------------------
+
+The Newsletter tools allows the owner(s) of a Project on the AIoD Platform’s CMS
+to send an email Newsletter to all its members, which includes a custom subject
+and an introductory text, along with links, summary and images of selected
+relevant content (e.g. News, Open calls etc.).
+
+How can a Project owner share content via a Newsletter?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A lot of interesting content is posted every week on the CMS, but unless users
+decide to visit the site, they won’t even be able to read it. Receiving a
+Newsletter with all the latest insights related to the Projects they decided to
+follow, will keep them updated for anything important that it’s happening.
+
+Step 1. Go to the Newsletter tool
+#######################################################
+
+Project owners can easily start building a Newsletter using the relevant option
+from the “Local tasks” side-menu of their Project which as usual provides
+access to all options related to the management of the Project:
+
+.. image:: ./images/newsletter-01.png
+  :alt: Find the Newsletter tool on the Local tasks side-menu.
+
+Step 2. Pick a subject
+#######################################################
+
+The Subject is really important as it’s going to be the Subject of the email
+itself and also the Title at the header of the Project’s Newsletter. A sensible
+default is automatically set, although Project owners should provide their own -
+they can certainly leave out the Project's name as that will always appear on
+the Newsletter, right below the AI-on-Demand platform’s logo.
+
+.. image:: ./images/newsletter-02.png
+  :alt: Picking a subject for the newsletter.
+
+**Validation rules:** Subject should not be less than 10 characters or longer than 90
+characters. There are many articles and researches that define the optimal
+subject length, but as a rule you should keep in mind that notifications which
+appear on mobile screens are usually truncated at about 40 characters.
+
+Step 3. Write an introductory text (*body*)
+#######################################################
+
+The body is the introductory text of the Newsletter and appears right underneath
+the platform’s logo and the title (Subject). It should contain a personalised
+message from the Project owner to all the Project’s members. Usually, it
+contains the most important information for people who are short on time.
+
+.. image:: ./images/newsletter-03.png
+  :alt: Writing the body of the Newsletter.
+
+**Validation rules:** Body should not be less than 200 characters. As its purpose is
+to put the most important information first, it should at least be longer than a
+SMS. Only restricted usage of HTML is allowed: Links within the CMS, simple
+lists, quotes and other elements can be used. More details about how to utilise
+restricted HTML are provided via the modal that appears by clicking the dotted
+link (restricted).
+
+Step 4. Pick interesting and relevant content
+#######################################################
+
+Project Owners have already added a lot of related content to their Project.
+They can now easily share that content with all the members of a Group, just by
+selecting it with a checkbox. The content is sorted in reverse chronological
+order and the selected items are indicated with a bright yellow colour.Nothing
+else needs to be done: The newsletter will contain the title, the link and the
+short summary of each item (*images will be resized and optimised automatically
+for an email*).
+
+.. image:: ./images/newsletter-04.png
+  :alt: Attaching content to the Newsletter.
+
+**Validation rules:** At least one content item should be selected. It’s not
+allowed to send all content items, unless their total number is less than 4.
+These restrictions were set in order to: a) make sure that the Newsletter sent
+contains at least one link that readers can follow to read more relevant
+information, b) avoid sending all the content items by accident as the checkbox
+next to the “Title” does exactly that.
+
+Step 5. Confirm your choices & sent the newsletter!
+#######################################################
+
+It’s not possible to send a Newsletter without checking the Confirmation
+*checkbox*. This ensures that no Newsletter is sent by accident, while providing a
+short summary of the action (*"will be sent immediately via email to the N
+members of this project"*).
+
+.. image:: ./images/newsletter-05.png
+  :alt: Confirm your choices and send the Newsletter.
