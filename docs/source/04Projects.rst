@@ -1,15 +1,6 @@
 Projects
 =======================================================
 
-The Newsletter tool is a new feature that enables the owners of Projects hosted on the AI-on-Demand Platform's CMS to send an email newsletter to all members of the platform. The newsletter contains a custom subject and introductory text, as well as links, summaries, and images of selected relevant content (e.g. news, open calls, etc.). This tool was built as a custom module for Drupal 9.x by Demokritos.
-The Newsletter is an important addition to the AIoD Platform, as it provides several benefits to Project owners and members. These benefits include:
-The ability to easily and efficiently send newsletters to all members of a Project, providing them with timely updates and relevant information.
-The ability for visitors of the platform to easily "connect" with Projects they are interested in, in order to stay informed and engaged with the Project, even if they do not actively participate in its proceedings.
-The simplification of the process of following a Project, making it easy for users to stay up-to-date with the latest developments and news related to the Project.
-The potential for future developments in community building, such as providing members with access to additional resources and information directly related to their interests. This can help to build a stronger and more engaged community around the Project.
-
-
-
 *Following* a Project
 -------------------------------------------------------
 
